@@ -105,6 +105,24 @@ const DATA = {
       credentialId: "PLAN-56138075980A",
       verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-56138075980A"
     },
+    {
+      title: "AI Tools & Claude Workshop",
+      image: "/images/be10x AI Tools Workshop.png",
+      issuer: "be10x",
+      badge: "Certified",
+      badgeColor: "text-purple-400",
+      category: "course",
+    },
+    {
+      title: "1M1B | AI for Sustainability",
+      image: "/images/IBM AI for Sustainability.png",
+      issuer: "IBM SkillsBuild",
+      badge: "Completed",
+      badgeColor: "text-yellow-400",
+      category: "course",
+      credentialId: "PLAN-F60F1D7DADA9",
+      verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-F60F1D7DADA9"
+    },
 
     {
       title: "AWS Certified Machine Learning",

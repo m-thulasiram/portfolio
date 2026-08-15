@@ -4,6 +4,7 @@ import Section from './ui/Section'
 
 const getCertIcon = (title) => {
   const lower = title.toLowerCase();
+  if (lower.includes('be10x') || lower.includes('claude') || lower.includes('ai tools')) return { icon: 'fa-brain', color: 'text-purple-400' };
   if (lower.includes('ibm') || lower.includes('sustainability') || lower.includes('1m1b')) return { icon: 'fa-leaf', color: 'text-emerald-400' };
   if (lower.includes('aws')) return { icon: 'fa-aws', color: 'text-amber-400' };
   if (lower.includes('machine learning') || lower.includes('ml')) return { icon: 'fa-robot', color: 'text-cyan-400' };
