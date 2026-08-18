@@ -72,15 +72,7 @@ const DATA = {
       image: "/images/nutrivision.png",
       link: "https://github.com/m-thulasiram/nutrivision",
     },
-    {
-      title: "Manjushree Ladies Tailor – Business Website",
-      description:
-        "Designed and built a full-featured local business website for Manjushree Ladies Tailor, a ladies' stitching shop in Vashi, Navi Mumbai. Features include a multilingual UI (English, Hindi, Marathi), WhatsApp-integrated enquiry form, Google Maps embed, customer reviews section, dynamic open/closed status, and a fully mobile-responsive layout with a sticky bottom action bar.",
-      tech: ["HTML", "CSS", "JavaScript", "WhatsApp API", "Google Maps"],
-      role: "Full design and development — UI/UX, multilingual content, WhatsApp form integration, and mobile optimization.",
-      image: "https://placehold.co/960x540/F9EEF1/B5405A?text=Manjushree+Ladies+Tailor",
-      link: "https://manjushreladiestailor.vercel.app/",
-    },
+
   ],
   internships: [
     {
