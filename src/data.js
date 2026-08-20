@@ -107,16 +107,7 @@ const DATA = {
     },
   ],
   certifications: [
-    {
-      title: "1M1B | AI for Sustainability Virtual Internship",
-      image: "/images/IBM SkillsBuild Virtual Internship.png",
-      issuer: "IBM SkillsBuild",
-      badge: "Certified",
-      badgeColor: "text-emerald-400",
-      category: "course",
-      credentialId: "PLAN-56138075980A",
-      verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-56138075980A"
-    },
+
     {
       title: "AI Tools & Claude Workshop",
       image: "/images/be10x AI Tools Workshop.png",
