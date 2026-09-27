@@ -76,14 +76,13 @@ const DATA = {
   ],
   internships: [
     {
-      company: "IBM SkillsBuild | 1M1B",
+      company: "1M1B | AICTE | IBM SkillsBuild",
       role: "1M1B | AI for Sustainability Virtual Internship",
-      duration: "Completed 27 Jul 2026",
-      work: "Completed the 1M1B | AI for Sustainability Virtual Internship hosted by IBM SkillsBuild & 1M1B. Gained practical experience in leveraging Artificial Intelligence and Machine Learning models for environmental sustainability, data analysis, and predictive modeling.",
-      tools: "Python, Artificial Intelligence, Machine Learning, IBM SkillsBuild",
-      certificate: "/images/IBM SkillsBuild Virtual Internship.png",
-      credentialId: "PLAN-56138075980A",
-      verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-56138075980A"
+      duration: "July 2026 – September 2026",
+      work: "Completed the AI for Sustainability Virtual Internship organized by 1M1B (One Million for One Billion), supported by AICTE in collaboration with IBM SkillsBuild. Gained practical experience in AI, responsible AI use, and key sustainability concepts aligned with UN SDGs. Applied Agentic AI and RAG systems to solve real-life problems.",
+      tools: "Agentic AI, RAG Systems, Python, Machine Learning, IBM SkillsBuild, AICTE",
+      certificate: "/images/1M1B AI for Sustainability Virtual Internship Certificate.png",
+      credentialId: "INTERNSHIP_17828984086a44dee80acf6",
     },
     {
       company: "IBM SkillsBuild | Edunet Foundation | AICTE",
@@ -107,6 +106,15 @@ const DATA = {
     },
   ],
   certifications: [
+    {
+      title: "1M1B | AI for Sustainability Virtual Internship",
+      image: "/images/1M1B AI for Sustainability Virtual Internship Certificate.png",
+      issuer: "1M1B | AICTE | IBM SkillsBuild",
+      badge: "Certified",
+      badgeColor: "text-emerald-400",
+      category: "course",
+      credentialId: "INTERNSHIP_17828984086a44dee80acf6",
+    },
 
     {
       title: "AI Tools & Claude Workshop",

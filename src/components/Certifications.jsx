@@ -18,7 +18,7 @@ const getCertIcon = (title) => {
 };
 
 export default function Certifications({ onViewCert }) {
-  const courseCerts = DATA.certifications.filter(c => c.category === 'course')
+  const courseCerts = DATA.certifications.filter(c => c.category === 'course' || c.category === 'internship')
   const eventCerts = DATA.certifications.filter(c => c.category === 'event')
 
   return (
