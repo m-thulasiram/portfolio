@@ -84,16 +84,7 @@ const DATA = {
       certificate: "/images/1M1B AI for Sustainability Virtual Internship Certificate.png",
       credentialId: "INTERNSHIP_17828984086a44dee80acf6",
     },
-    {
-      company: "IBM SkillsBuild | Edunet Foundation | AICTE",
-      role: "Edunet - University Engagements - AICTE Internship-2026-27",
-      duration: "Completed 18 Aug 2026",
-      work: "Completed the Edunet - University Engagements - AICTE Internship 2026-27, a prestigious internship program organized by Edunet Foundation in collaboration with IBM SkillsBuild and AICTE. Gained hands-on experience in AI, Data Analytics, and emerging technologies through structured learning and practical projects.",
-      tools: "IBM SkillsBuild, Artificial Intelligence, Data Analytics, AICTE",
-      certificate: "/images/Edunet AICTE Internship 2026-27.png",
-      credentialId: "PLAN-6B9E5C210607",
-      verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-6B9E5C210607"
-    },
+
     {
       company: "IBM SkillsBuild | AICTE | BharatCares",
       role: "AICTE | IBM SkillsBuild Academic Internship - Data Analytics with AI | BharatCares",
@@ -110,7 +101,7 @@ const DATA = {
       duration: "17th August 2026 – 11th September 2026",
       work: "Successfully completed a 4-week Internship in Emerging Technologies (Agentic AI, Cyber Security, and Quantum Computing), leveraging IBM SkillsBuild, IBM Cloud, and IBM BoB. Developed an industry-relevant project in Artificial Intelligence and Cloud Computing. Organized by Edunet Foundation in collaboration with AICTE.",
       tools: "IBM SkillsBuild, IBM Cloud, IBM BoB, Agentic AI, Cyber Security, Quantum Computing",
-      certificate: "/images/Edunet Foundation Emerging Technologies Internship.png",
+      certificate: "/images/Edunet cerificate.png",
       credentialId: "INTERNSHIP_17833184926a4b47dc39a0d",
     },
   ],
