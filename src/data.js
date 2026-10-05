@@ -104,6 +104,15 @@ const DATA = {
       credentialId: "PLAN-D44A9C2C463C",
       verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-D44A9C2C463C"
     },
+    {
+      company: "Edunet Foundation | IBM SkillsBuild | AICTE",
+      role: "4-Week Internship in Emerging Technologies",
+      duration: "17th August 2026 – 11th September 2026",
+      work: "Successfully completed a 4-week Internship in Emerging Technologies (Agentic AI, Cyber Security, and Quantum Computing), leveraging IBM SkillsBuild, IBM Cloud, and IBM BoB. Developed an industry-relevant project in Artificial Intelligence and Cloud Computing. Organized by Edunet Foundation in collaboration with AICTE.",
+      tools: "IBM SkillsBuild, IBM Cloud, IBM BoB, Agentic AI, Cyber Security, Quantum Computing",
+      certificate: "/images/Edunet Foundation Emerging Technologies Internship.png",
+      credentialId: "INTERNSHIP_17833184926a4b47dc39a0d",
+    },
   ],
   certifications: [
     {
