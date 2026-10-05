@@ -140,6 +140,29 @@ body {
   transform: translateY(-2px);
 }
 
+.btn-linkedin {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, #0a66c2, #004182);
+  border: 1px solid rgba(10, 102, 194, 0.5);
+  border-radius: 12px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  transition: all .3s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 0 0 20px rgba(10, 102, 194, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+.btn-linkedin:hover {
+  background: linear-gradient(135deg, #1a76c9, #0a66c2);
+  box-shadow: 0 0 36px rgba(10, 102, 194, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+  color: #fff;
+}
+
 /* Chip */
 .chip {
   display: inline-block;
