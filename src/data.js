@@ -43,7 +43,7 @@ const DATA = {
       "YOLOv8", "Time Series Forecasting", "Regression", "Classification",
     ],
     databases: ["MySQL", "MongoDB"],
-    tools: ["GitHub", "Git", "VS Code", "Jupyter Notebook", "Google Colab"],
+    tools: ["GitHub", "Git", "VS Code", "Jupyter Notebook", "Google Colab", "Antigravity AI"],
     concepts: [
       "Data Structures & Algorithms", "OOP", "Exploratory Data Analysis (EDA)",
       "Feature Engineering", "Data Preprocessing", "Statistical Analysis",
