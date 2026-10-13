@@ -91,7 +91,7 @@ const DATA = {
       duration: "Completed 18 Aug 2026",
       work: "Completed the AICTE | IBM SkillsBuild Academic Internship focused on Data Analytics with AI under BharatCares initiative. Acquired practical skills in data analytics, AI-driven insights, and IBM tools to solve real-world problems through data-driven decision making.",
       tools: "IBM SkillsBuild, Data Analytics, Artificial Intelligence, BharatCares",
-      certificate: "/images/AICTE IBM SkillsBuild Data Analytics BharatCares.png",
+      certificate: "/images/BharatCares Certificate of Training IBM SkillsBuild Data Analytics.png",
       credentialId: "PLAN-D44A9C2C463C",
       verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-D44A9C2C463C"
     },
@@ -218,6 +218,15 @@ const DATA = {
       category: "internship",
       credentialId: "PLAN-D44A9C2C463C",
       verifyUrl: "https://skills.yourlearning.ibm.com/certificate/PLAN-D44A9C2C463C"
+    },
+    {
+      title: "Certificate of Training – IBM SkillsBuild Data Analytics with AI Internship | BharatCares",
+      image: "/images/BharatCares Certificate of Training IBM SkillsBuild Data Analytics.png",
+      issuer: "BharatCares | AICTE | IBM",
+      badge: "Certified",
+      badgeColor: "text-pink-400",
+      category: "internship",
+      credentialId: "IBMACBHDAI1034",
     },
     {
       title: "Introduction to Retrieval Augmented Generation",
